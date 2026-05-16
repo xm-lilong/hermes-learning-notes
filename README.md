@@ -12,6 +12,7 @@
 | [飞书接入](docs/feishu-integration.md) | WebSocket 私聊/群聊，工作区隔离 |
 | [微信接入](docs/weixin-integration.md) | iLink Bot 配置、限频处理 |
 | [Cron 故障排查](docs/cron-debugging.md) | 完整诊断树：6 类失败及修复 |
+| [CLI 命令完全手册](docs/cli-commands.md) | 所有命令按场景分类，速查表 |
 
 ## 环境概览
 
